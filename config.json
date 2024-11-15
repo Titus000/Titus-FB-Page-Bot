@@ -1,11 +1,11 @@
 {
   "commandPrefix": "/",
   "adminIds": [
-    7500033263375905
+    
   ],
   "pageId": 270004026188135,
-  "botName": "Chika Bot",
-  "webhookUrl": "https://r987s9rh-3000.asse.devtunnels.ms",
+  "botName": "Rousseau-Titus |🗿",
+  "webhookUrl": "https://titus-fb-page-bot-1.onrender.com/webhook",
   "verifyToken": "123456",
   "databaseType": "json",
   "mongoUri": ""
